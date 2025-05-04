@@ -1,4 +1,4 @@
-# 🏅 End-to-End Azure Data Engineering Pipeline – Olympics 2024 (Interview Project)
+# 🏅 End-to-End Azure Data Engineering Pipeline – Olympics 2024
 
 This project demonstrates my ability to design and implement a **scalable, production-ready data engineering solution** using modern Azure technologies. It simulates a real-world use case of processing and transforming **Olympics 2024 event data** using **Medallion Architecture** with **orchestration, transformation, and CI/CD**.
 
@@ -88,15 +88,15 @@ To build a robust data pipeline for the **Olympics 2024 Committee** to process, 
 - Automate deployment using **CI/CD in Azure DevOps**
 - Layered storage and **schema evolution handling**
 - Building pipelines with **scalability, fault tolerance, and modularity**
+- Data Quality checks with **Great Expectations**
+- Role-based access control using **Unity Catalog**
+- Integration with **Power BI dashboards** from Synapse
 
 ---
 
 ## 🧪 Possible Extensions (If Given More Time)
 
 - Real-time streaming ingestion using **Event Hubs + Databricks Structured Streaming**
-- Data Quality checks with **Great Expectations**
-- Role-based access control using **Unity Catalog**
-- Integration with **Power BI dashboards** from Synapse
 
 ---
 
@@ -112,9 +112,8 @@ This project is ideal for:
 
 ## 📬 Contact
 
-- **LinkedIn**: [Your Profile](#)
-- **Instagram**: [Your Page](#)
-- **Email**: youremail@example.com
+- **LinkedIn**: [(https://www.linkedin.com/in/jaikripal/)](#)
+- **Email**: jaikripal05@gmail.com
 
 ---
 
