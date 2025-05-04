@@ -32,7 +32,7 @@ To build a robust data pipeline for the **Olympics 2024 Committee** to process, 
 
 ## 🧱 Project Architecture
 
-![Architecture Diagram](architecture/pipeline-diagram.png)
+![Architecture Diagram](architecture/pipeline_diagram.png)
 
 **Flow:**
 
